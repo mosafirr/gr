@@ -1,0 +1,18 @@
+bot_token: "5522563207:AAFGojhx0fDHTXguNpjA59NwI1QcIsCHAfY" # Bot Token
+api_id: 10464138 # Get from my.telegram.org
+api_hash: "4185aaae27c0ee23420255f2627ddb5f" # Get from my.telegram.org
+owner_id: 5556908572 # Owner's Telegram account ID
+message_dump: -1001786848035 # Chat ID for Message Dump
+load: [] # Modules to load (will load all if empty)
+no_load: [] # Modules to exclude from loading
+strict_antispam: False # Enforce Gbans
+workers: 4 # Worker count
+del_cmds: False # Delete admin commands executed by non-admins
+spamwatch_api: 'bBfQ_4C99ryQNJkf~y69s_TlmFK8mTtc~UWCHPoWmjj66gZgOq_T5WJlB2qURdtE' # SpamWatch API Key
+
+# Database
+database_url: "postgres://postgres:4455Hasan@165.232.187.50:5432/test_erp" # Database URL
+
+# Permissions
+sudo_users: [5556908572] # List of the Telegram IDs of sudo users
+whitelist_users: [5556908572] # List of the Telegram IDs of whitelisted users

@@ -1,0 +1,13 @@
+config.yml
+*.pyc
+.idea/
+logfile
+backups/
+.project
+.pydevproject
+.directory
+.vscode
+*.backup
+haruka.session
+venv/
+images/*
